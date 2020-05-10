@@ -1,4 +1,4 @@
-def first_challenge
+
  epic_tragedy = {
   :montague => {
     :patriarch => {  
@@ -54,4 +54,3 @@ def first_challenge
     ]
   }
 }
-end
